@@ -1,10 +1,10 @@
 {
   "clientes": [
     {
-      "nombre": "Miguel",
+      "nombre": "Milan",
       "empresa": "Tochs",
       "email": "correo@correo.com",
-      "telefono": "3115303952",
+      "telefono": "1234567",
       "notas": "Cambiar Botones Landing",
       "id": 1
     },
@@ -18,9 +18,9 @@
     },
     {
       "nombre": "Deisy",
-      "empresa": "Antojitos Gourmet",
+      "empresa": "Exquisiteces",
       "email": "antojitosg@deika.com",
-      "telefono": "3003254727",
+      "telefono": "3515157",
       "notas": "Diseño y Desarrollo de Website, Social Media, Linea Grafica",
       "id": 5
     }
