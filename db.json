@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "Miguel",
+      "empresa": "Tochs",
+      "email": "correo@correo.com",
+      "telefono": "3115303952",
+      "notas": "Cambiar Botones Landing",
+      "id": 1
+    },
+    {
+      "nombre": "Freddielys ",
+      "empresa": "Yelis Fashion",
+      "email": "yelis@gmail.com",
+      "telefono": "2116",
+      "notas": "Uñas",
+      "id": 3
+    },
+    {
+      "nombre": "Deisy",
+      "empresa": "Antojitos Gourmet",
+      "email": "antojitosg@deika.com",
+      "telefono": "3003254727",
+      "notas": "Diseño y Desarrollo de Website, Social Media, Linea Grafica",
+      "id": 5
+    }
+  ]
+}
